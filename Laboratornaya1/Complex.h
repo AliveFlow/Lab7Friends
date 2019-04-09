@@ -32,7 +32,7 @@ class Realii;
 
 class RealTok
 {
-	friend Realii;
+
 public:
 
 	void RealSum(Realii & itog);
